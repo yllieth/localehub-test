@@ -1,7 +1,7 @@
 {
   "resources": "Zasoby",
   "resource": "Zasób",
-  "description": "Opis",
+  "description": "Opiszerg",
   "errs": {
     "no_docs_found": "Nie znalezionio dokumentacji",
     "no_docs_found_descr": "Nie znaleziono dokumentacji dla twojego API.",
