@@ -7,7 +7,7 @@
     "no_docs_found_descr": "Nie znaleziono dokumentacji dla twojego API.",
     "follow_instructions_html": "Przejdź do %{href} aby opisać swoje kontrolery.",
     "follow_instructions_href": "dalsze instrukcje",
-    "oops": "Ups!!",
+    "oops": "Uuuuups!!",
     "resource_not_found_html": "Zasób %{resource} nie został znaleziony.",
     "method_not_found_html": "Metoda %{method} dla zasobu %{resource} nie została znaleziona."
   },
