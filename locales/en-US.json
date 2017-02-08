@@ -1,5 +1,5 @@
 {
-  "resources": "Resources",
+  "resources": "Resources-changed",
   "resource": "Resource",
   "description": "Description",
   "errs": {
@@ -7,7 +7,7 @@
     "no_docs_found_descr": "We have not found any documentation for your API.",
     "follow_instructions_html": "Follow %{href} on how to describe your controllers.",
     "follow_instructions_href": "further instructions",
-    "oops": "Oops!!",
+    "oops": "Oooooops!!",
     "resource_not_found_html": "Resource %{resource} not found.",
     "method_not_found_html": "Method %{method} not found for resource %{resource}."
   },
