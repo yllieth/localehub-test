@@ -1,5 +1,5 @@
 {
-  "resources": "Resources",
+  "resources": "Resources - updated",
   "resource": "Resource",
   "description": "Description",
   "errs": {
@@ -16,7 +16,8 @@
   "status": {
     "required": "required",
     "optional": "optional",
-    "nil_allowed": "nil allowed"
+    "nil_allowed": "nil allowed",
+    "newLocale": "en"
   },
   "param_name": "Param name",
   "params": "Params",
