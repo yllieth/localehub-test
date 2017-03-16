@@ -16,7 +16,8 @@
   "status": {
     "required": "wymagany",
     "optional": "opcjonalny",
-    "nil_allowed": "nil dopuszczalny"
+    "nil_allowed": "nil dopuszczalny",
+    "newLocale": "pl"
   },
   "param_name": "Nazwa parametru",
   "params": "Parametry",
