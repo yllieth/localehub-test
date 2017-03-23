@@ -1,6 +1,6 @@
 {
   "resources": "Resources",
-  "resource": "Resource",
+  "resource": "Resourcedfver",
   "description": "Description",
   "errs": {
     "no_docs_found": "No documentation found",
