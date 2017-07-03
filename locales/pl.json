@@ -19,7 +19,6 @@
     "nil_allowed": "nil dopuszczalny"
   },
   "param_name": "Nazwa parametru",
-  "params": "Parametry",
   "examples": "Przykłady",
   "metadata": "Metadane",
   "errors": "Błędy",
