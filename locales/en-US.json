@@ -1,5 +1,5 @@
 {
-  "resources": "Resources",
+  "resources": "Resources-edited",
   "resource": "Resource",
   "description": "Description",
   "errs": {
@@ -9,13 +9,14 @@
     "follow_instructions_href": "further instructions",
     "oops": "Oops!!",
     "resource_not_found_html": "Resource %{resource} not found.",
-    "method_not_found_html": "Method %{method} not found for resource %{resource}."
+    "method_not_found_html": "Method %{method} not found for resource %{resource}.",
+    "test": "test"
   },
   "goto_homepage_html": "Try going to %{href}",
   "goto_homepage_href": "%{app_name} API documentation homepage",
   "status": {
     "required": "required",
-    "optional": "optional",
+    "optional": "optionalfgcv",
     "nil_allowed": "nil allowed"
   },
   "param_name": "Param name",
