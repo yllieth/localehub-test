@@ -1,6 +1,6 @@
 {
-  "resources": "Resources",
-  "resource": "Resource",
+  "resources": "Resources-edited",
+  "resource": "Resource-edited",
   "description": "Description",
   "errs": {
     "no_docs_found": "No documentation found",
