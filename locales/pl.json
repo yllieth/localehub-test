@@ -9,7 +9,8 @@
     "follow_instructions_href": "dalsze instrukcje",
     "oops": "Ups!!",
     "resource_not_found_html": "Zasób %{resource} nie został znaleziony.",
-    "method_not_found_html": "Metoda %{method} dla zasobu %{resource} nie została znaleziona."
+    "method_not_found_html": "Metoda %{method} dla zasobu %{resource} nie została znaleziona.",
+    "test": "test"
   },
   "goto_homepage_html": "Spróbuj przejść do %{href}",
   "goto_homepage_href": "%{app_name} Strona główna dokumentacji API",
